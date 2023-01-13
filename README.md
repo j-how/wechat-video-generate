@@ -23,3 +23,6 @@ ___
 [short-video-generate](https://github.com/ayuLiao/short-video-generate)
 
 [weixin-chat](https://gitee.com/lifeixue/weixin-chat)
+
+
+原文章链接 https://www.52pojie.cn/forum.php?mod=viewthread&tid=1732372&highlight=%B6%B6%D2%F4
